@@ -1,0 +1,85 @@
+/*
+    Google fonts
+ */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bitter&family=Dancing+Script:wght@500&family=EB+Garamond:wght@600;700;800&family=Edu+NSW+ACT+Foundation&family=Edu+SA+Beginner:wght@700&family=Inter&family=Lobster&family=Manrope:wght@400;500;600;700;800&family=Merriweather&family=Noto+Sans&family=Open+Sans&family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,600;1,300;1,800&family=Poppins:wght@300;500&family=Roboto:wght@500&family=Splash&family=Work+Sans&display=swap");
+
+// Common Styles
+body {
+  font-family: "Work Sans";
+}
+
+
+// Header Styles
+
+#sort-btn {
+  background: #eb5757;
+  border-radius: 15px;
+}
+
+
+// Card Styles
+
+.inside {
+  list-style-position: outside;
+}
+
+// Button Styles
+
+#see-more-btn {
+  background: #eb5757;
+  border-radius: 15px;
+}
+
+
+// Modal Styles
+
+.pricings {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.pricing {
+  width: 130px;
+  height: 100px;
+  font-weight: 700;
+  border-radius: 15px;
+  font-size: 17px;
+  background-color: white;
+}
+
+
+.card-information {
+  background: rgba(235, 87, 87, 0.05);
+  border: 1px solid #eb5757;
+  border-radius: 15px;
+}
+
+
+
+.questions {
+  font-size: 25px;
+  color: #111111;
+  text-align: center;
+}
+
+.pricing-one {
+  color: #03a30a;
+}
+
+.pricing-two {
+  color: #f28927;
+}
+
+.pricing-three {
+  color: #eb5757;
+}
+
+.accuracy-btn {
+  background: #eb5757;
+  border-radius: 8px;
+  width: 140px;
+  height: 30px;
+}
+
